@@ -5,6 +5,7 @@
 .coverage
 .vscode
 .venv
+.mplconfig
 
 *.egg-info
 */__pycache__
